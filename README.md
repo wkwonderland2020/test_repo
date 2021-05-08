@@ -22,7 +22,11 @@ print ('This is my Fintech Space)
 
 [images](images)
 
-![my picture](pix.jpg)
+![my picture](pix.jpeg)
+
+
+
+
 
 
 
