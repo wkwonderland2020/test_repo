@@ -1,1 +1,30 @@
-I am Ivan, and I was an Engineer in HK.  I want to find a FinTech job soon after this program
+# Fintech Respository #
+
+## Fintech Header ##
+
+### Fintech Header ###
+
+**Bold** *Italic*
+
+---
+
+```python
+print ('This is my Fintech Space)
+```
+
+> "This is a quote"
+
+[code](code)
+
+[reference](references)
+
+[data](data)
+
+[images](images)
+
+![my picture](pix.jpg)
+
+
+
+
+
